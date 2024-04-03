@@ -1,0 +1,10 @@
+results/
+visual/
+visual_resize/
+dataset/
+wandb/
+**/__pycache__/
+*.pth
+*.png
+*.pkl
+*.mp4
